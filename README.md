@@ -1,4 +1,4 @@
-## Top Trumps Battle Game
+## Top Trumps Card Game
 
 
 Using the Object Oriented Programming skills you've learned this week, we want you to implement the classic Top Trumps card game!
@@ -23,10 +23,10 @@ In day 2 of this sprint you should re-factor your code to make use of ES6 classe
 - Card collectors will have a name, and a way of storing their cards. 
 - Each card collector will also have a buy method available, so they can store more cards. 
 
-## Battle
-- Finally, you will need a way to battle the cards. 
-- The battle should take two collectors and the names of the cards they wish to battle. The cards should be in an ordered list.
-- The battle should have a turn method available. This should take the card at the top of the list with a defined attribute. The attributes on the two opposing cards will then be compared. 
+## Game
+- Finally, you will need a way to play the cards. 
+- The game should take two collectors and the names of the cards they wish to play. The cards should be in an ordered list.
+- The game should have a turn method available. This should take the card at the top of the list with a defined attribute. The attributes on the two opposing cards will then be compared. 
 - Whichever card has the larger number for the specific attribute wins the round. The collector who's card that is then steals the losing card. The losing card will be put to the back of their list.
 - The winning card will stay in play, the collector who lost will then play their next card in the list with a specified attribute.
 - Once one of the collectors loses all their cards, the other collector wins.
