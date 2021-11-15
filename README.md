@@ -5,7 +5,7 @@ Using the Object Oriented Programming skills you've learned this week, we want y
 
 ## Day 1
 
-In day 1 of this sprint you are expected to use the pseudo-classical pattern of object creation in order to create your cards, collectors and game objects.  Remember to think about which properties and methods should belong to each of these different objects.
+In day 1 of this sprint you are expected to use the pseudo-classical pattern of object creation in order to create your cards, collectors and game objects.  Remember to think about which properties and methods should belong to each of these different objects!
 
 ## Day 2
 
